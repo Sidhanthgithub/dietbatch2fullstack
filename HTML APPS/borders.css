@@ -1,0 +1,8 @@
+/*
+styles with border
+properties */
+p{
+    border-style: dashed;
+    border-width: 100px;
+    border-color: greenyellow;
+}
